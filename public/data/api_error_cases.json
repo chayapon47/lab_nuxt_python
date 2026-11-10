@@ -1,0 +1,52 @@
+[
+  {
+    "case_id": 1,
+    "scenario": "unknown student",
+    "expected_status": 404
+  },
+  {
+    "case_id": 2,
+    "scenario": "duplicate student",
+    "expected_status": 409
+  },
+  {
+    "case_id": 3,
+    "scenario": "GPA above 4",
+    "expected_status": 422
+  },
+  {
+    "case_id": 4,
+    "scenario": "missing required name",
+    "expected_status": 422
+  },
+  {
+    "case_id": 5,
+    "scenario": "invalid student ID type",
+    "expected_status": 422
+  },
+  {
+    "case_id": 6,
+    "scenario": "missing access token",
+    "expected_status": 401
+  },
+  {
+    "case_id": 7,
+    "scenario": "insufficient permissions",
+    "expected_status": 403
+  },
+  {
+    "case_id": 8,
+    "scenario": "rate limit exceeded",
+    "expected_status": 429
+  },
+  {
+    "case_id": 9,
+    "scenario": "backend exception",
+    "expected_status": 500
+  },
+  {
+    "case_id": 10,
+    "scenario": "invalid JSON body",
+    "expected_status": 422
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "task_id": 1,
+    "course_id": "CS101",
+    "task_type": "summary",
+    "instruction": "Create a concise Thai summary using only the course description."
+  },
+  {
+    "task_id": 2,
+    "course_id": "CS102",
+    "task_type": "keywords",
+    "instruction": "Create three keywords using only the course description."
+  },
+  {
+    "task_id": 3,
+    "course_id": "CS103",
+    "task_type": "quiz",
+    "instruction": "Create two quiz questions using only the course description."
+  },
+  {
+    "task_id": 4,
+    "course_id": "CS201",
+    "task_type": "summary",
+    "instruction": "Create a concise Thai summary using only the course description."
+  },
+  {
+    "task_id": 5,
+    "course_id": "CS202",
+    "task_type": "keywords",
+    "instruction": "Create three keywords using only the course description."
+  },
+  {
+    "task_id": 6,
+    "course_id": "CS203",
+    "task_type": "quiz",
+    "instruction": "Create two quiz questions using only the course description."
+  },
+  {
+    "task_id": 7,
+    "course_id": "CS204",
+    "task_type": "summary",
+    "instruction": "Create a concise Thai summary using only the course description."
+  },
+  {
+    "task_id": 8,
+    "course_id": "CS205",
+    "task_type": "keywords",
+    "instruction": "Create three keywords using only the course description."
+  },
+  {
+    "task_id": 9,
+    "course_id": "CS206",
+    "task_type": "quiz",
+    "instruction": "Create two quiz questions using only the course description."
+  },
+  {
+    "task_id": 10,
+    "course_id": "CS207",
+    "task_type": "summary",
+    "instruction": "Create a concise Thai summary using only the course description."
+  },
+  {
+    "task_id": 11,
+    "course_id": "CS101",
+    "task_type": "keywords",
+    "instruction": "Create three keywords using only the course description."
+  },
+  {
+    "task_id": 12,
+    "course_id": "CS102",
+    "task_type": "quiz",
+    "instruction": "Create two quiz questions using only the course description."
+  }
+]

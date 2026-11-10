@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-api-intern-12-labs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
+    "seed:mongo": "node scripts/seed-mongo.mjs"
+  },
+  "dependencies": {
+    "nuxt": "^4.0.0",
+    "openai": "^6.0.0",
+    "zod": "^4.0.0",
+    "better-sqlite3": "^12.0.0",
+    "mongodb": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.0"
+  }
+}

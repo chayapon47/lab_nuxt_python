@@ -1,0 +1,362 @@
+[
+  {
+    "enrollment_id": 1,
+    "student_id": 1001,
+    "course_id": "CS101",
+    "score": 55
+  },
+  {
+    "enrollment_id": 2,
+    "student_id": 1001,
+    "course_id": "CS102",
+    "score": 68
+  },
+  {
+    "enrollment_id": 3,
+    "student_id": 1002,
+    "course_id": "CS201",
+    "score": 62
+  },
+  {
+    "enrollment_id": 4,
+    "student_id": 1002,
+    "course_id": "CS202",
+    "score": 75
+  },
+  {
+    "enrollment_id": 5,
+    "student_id": 1003,
+    "course_id": "CS204",
+    "score": 69
+  },
+  {
+    "enrollment_id": 6,
+    "student_id": 1003,
+    "course_id": "CS205",
+    "score": 82
+  },
+  {
+    "enrollment_id": 7,
+    "student_id": 1004,
+    "course_id": "CS207",
+    "score": 76
+  },
+  {
+    "enrollment_id": 8,
+    "student_id": 1004,
+    "course_id": "CS101",
+    "score": 89
+  },
+  {
+    "enrollment_id": 9,
+    "student_id": 1005,
+    "course_id": "CS103",
+    "score": 83
+  },
+  {
+    "enrollment_id": 10,
+    "student_id": 1005,
+    "course_id": "CS201",
+    "score": 96
+  },
+  {
+    "enrollment_id": 11,
+    "student_id": 1006,
+    "course_id": "CS203",
+    "score": 90
+  },
+  {
+    "enrollment_id": 12,
+    "student_id": 1006,
+    "course_id": "CS204",
+    "score": 57
+  },
+  {
+    "enrollment_id": 13,
+    "student_id": 1007,
+    "course_id": "CS206",
+    "score": 97
+  },
+  {
+    "enrollment_id": 14,
+    "student_id": 1007,
+    "course_id": "CS207",
+    "score": 64
+  },
+  {
+    "enrollment_id": 15,
+    "student_id": 1008,
+    "course_id": "CS102",
+    "score": 58
+  },
+  {
+    "enrollment_id": 16,
+    "student_id": 1008,
+    "course_id": "CS103",
+    "score": 71
+  },
+  {
+    "enrollment_id": 17,
+    "student_id": 1009,
+    "course_id": "CS202",
+    "score": 65
+  },
+  {
+    "enrollment_id": 18,
+    "student_id": 1009,
+    "course_id": "CS203",
+    "score": 78
+  },
+  {
+    "enrollment_id": 19,
+    "student_id": 1010,
+    "course_id": "CS205",
+    "score": 72
+  },
+  {
+    "enrollment_id": 20,
+    "student_id": 1010,
+    "course_id": "CS206",
+    "score": 85
+  },
+  {
+    "enrollment_id": 21,
+    "student_id": 1011,
+    "course_id": "CS101",
+    "score": 79
+  },
+  {
+    "enrollment_id": 22,
+    "student_id": 1011,
+    "course_id": "CS102",
+    "score": 92
+  },
+  {
+    "enrollment_id": 23,
+    "student_id": 1012,
+    "course_id": "CS201",
+    "score": 86
+  },
+  {
+    "enrollment_id": 24,
+    "student_id": 1012,
+    "course_id": "CS202",
+    "score": 99
+  },
+  {
+    "enrollment_id": 25,
+    "student_id": 1013,
+    "course_id": "CS204",
+    "score": 93
+  },
+  {
+    "enrollment_id": 26,
+    "student_id": 1013,
+    "course_id": "CS205",
+    "score": 60
+  },
+  {
+    "enrollment_id": 27,
+    "student_id": 1014,
+    "course_id": "CS207",
+    "score": 100
+  },
+  {
+    "enrollment_id": 28,
+    "student_id": 1014,
+    "course_id": "CS101",
+    "score": 67
+  },
+  {
+    "enrollment_id": 29,
+    "student_id": 1015,
+    "course_id": "CS103",
+    "score": 61
+  },
+  {
+    "enrollment_id": 30,
+    "student_id": 1015,
+    "course_id": "CS201",
+    "score": 74
+  },
+  {
+    "enrollment_id": 31,
+    "student_id": 1016,
+    "course_id": "CS203",
+    "score": 68
+  },
+  {
+    "enrollment_id": 32,
+    "student_id": 1016,
+    "course_id": "CS204",
+    "score": 81
+  },
+  {
+    "enrollment_id": 33,
+    "student_id": 1017,
+    "course_id": "CS206",
+    "score": 75
+  },
+  {
+    "enrollment_id": 34,
+    "student_id": 1017,
+    "course_id": "CS207",
+    "score": 88
+  },
+  {
+    "enrollment_id": 35,
+    "student_id": 1018,
+    "course_id": "CS102",
+    "score": 82
+  },
+  {
+    "enrollment_id": 36,
+    "student_id": 1018,
+    "course_id": "CS103",
+    "score": 95
+  },
+  {
+    "enrollment_id": 37,
+    "student_id": 1019,
+    "course_id": "CS202",
+    "score": 89
+  },
+  {
+    "enrollment_id": 38,
+    "student_id": 1019,
+    "course_id": "CS203",
+    "score": 56
+  },
+  {
+    "enrollment_id": 39,
+    "student_id": 1020,
+    "course_id": "CS205",
+    "score": 96
+  },
+  {
+    "enrollment_id": 40,
+    "student_id": 1020,
+    "course_id": "CS206",
+    "score": 63
+  },
+  {
+    "enrollment_id": 41,
+    "student_id": 1021,
+    "course_id": "CS101",
+    "score": 57
+  },
+  {
+    "enrollment_id": 42,
+    "student_id": 1021,
+    "course_id": "CS102",
+    "score": 70
+  },
+  {
+    "enrollment_id": 43,
+    "student_id": 1022,
+    "course_id": "CS201",
+    "score": 64
+  },
+  {
+    "enrollment_id": 44,
+    "student_id": 1022,
+    "course_id": "CS202",
+    "score": 77
+  },
+  {
+    "enrollment_id": 45,
+    "student_id": 1023,
+    "course_id": "CS204",
+    "score": 71
+  },
+  {
+    "enrollment_id": 46,
+    "student_id": 1023,
+    "course_id": "CS205",
+    "score": 84
+  },
+  {
+    "enrollment_id": 47,
+    "student_id": 1024,
+    "course_id": "CS207",
+    "score": 78
+  },
+  {
+    "enrollment_id": 48,
+    "student_id": 1024,
+    "course_id": "CS101",
+    "score": 91
+  },
+  {
+    "enrollment_id": 49,
+    "student_id": 1025,
+    "course_id": "CS103",
+    "score": 85
+  },
+  {
+    "enrollment_id": 50,
+    "student_id": 1025,
+    "course_id": "CS201",
+    "score": 98
+  },
+  {
+    "enrollment_id": 51,
+    "student_id": 1026,
+    "course_id": "CS203",
+    "score": 92
+  },
+  {
+    "enrollment_id": 52,
+    "student_id": 1026,
+    "course_id": "CS204",
+    "score": 59
+  },
+  {
+    "enrollment_id": 53,
+    "student_id": 1027,
+    "course_id": "CS206",
+    "score": 99
+  },
+  {
+    "enrollment_id": 54,
+    "student_id": 1027,
+    "course_id": "CS207",
+    "score": 66
+  },
+  {
+    "enrollment_id": 55,
+    "student_id": 1028,
+    "course_id": "CS102",
+    "score": 60
+  },
+  {
+    "enrollment_id": 56,
+    "student_id": 1028,
+    "course_id": "CS103",
+    "score": 73
+  },
+  {
+    "enrollment_id": 57,
+    "student_id": 1029,
+    "course_id": "CS202",
+    "score": 67
+  },
+  {
+    "enrollment_id": 58,
+    "student_id": 1029,
+    "course_id": "CS203",
+    "score": 80
+  },
+  {
+    "enrollment_id": 59,
+    "student_id": 1030,
+    "course_id": "CS205",
+    "score": 74
+  },
+  {
+    "enrollment_id": 60,
+    "student_id": 1030,
+    "course_id": "CS206",
+    "score": 87
+  }
+]

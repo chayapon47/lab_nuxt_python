@@ -1,0 +1,370 @@
+[
+  {
+    "student_id": 1001,
+    "name": "Somchai",
+    "faculty": "Engineering",
+    "year": 3,
+    "gpa": 3.45,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Python",
+      "HTML"
+    ]
+  },
+  {
+    "student_id": 1002,
+    "name": "Mali",
+    "faculty": "Science",
+    "year": 2,
+    "gpa": 3.8,
+    "active": true,
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "student_id": 1003,
+    "name": "Anan",
+    "faculty": "Engineering",
+    "year": 4,
+    "gpa": 2.95,
+    "active": true,
+    "skills": [
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  {
+    "student_id": 1004,
+    "name": "Nida",
+    "faculty": "Business",
+    "year": 1,
+    "gpa": 3.65,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Excel"
+    ]
+  },
+  {
+    "student_id": 1005,
+    "name": "Kanya",
+    "faculty": "Science",
+    "year": 3,
+    "gpa": 3.92,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Python",
+      "HTML"
+    ]
+  },
+  {
+    "student_id": 1006,
+    "name": "Prasit",
+    "faculty": "Engineering",
+    "year": 2,
+    "gpa": 2.7,
+    "active": false,
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "student_id": 1007,
+    "name": "Ploy",
+    "faculty": "Business",
+    "year": 4,
+    "gpa": 3.25,
+    "active": true,
+    "skills": [
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  {
+    "student_id": 1008,
+    "name": "Thanawat",
+    "faculty": "IT",
+    "year": 3,
+    "gpa": 3.55,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Excel"
+    ]
+  },
+  {
+    "student_id": 1009,
+    "name": "Arisa",
+    "faculty": "IT",
+    "year": 2,
+    "gpa": 3.78,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Python",
+      "HTML"
+    ]
+  },
+  {
+    "student_id": 1010,
+    "name": "Krit",
+    "faculty": "Engineering",
+    "year": 1,
+    "gpa": 2.85,
+    "active": true,
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "student_id": 1011,
+    "name": "Pim",
+    "faculty": "Engineering",
+    "year": 3,
+    "gpa": 3.7,
+    "active": true,
+    "skills": [
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  {
+    "student_id": 1012,
+    "name": "Narin",
+    "faculty": "Business",
+    "year": 4,
+    "gpa": 3.83,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Excel"
+    ]
+  },
+  {
+    "student_id": 1013,
+    "name": "Warin",
+    "faculty": "IT",
+    "year": 1,
+    "gpa": 2.41,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Python",
+      "HTML"
+    ]
+  },
+  {
+    "student_id": 1014,
+    "name": "Chaiwat",
+    "faculty": "Science",
+    "year": 2,
+    "gpa": 2.54,
+    "active": true,
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "student_id": 1015,
+    "name": "Suda",
+    "faculty": "Engineering",
+    "year": 3,
+    "gpa": 2.67,
+    "active": true,
+    "skills": [
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  {
+    "student_id": 1016,
+    "name": "Pattar",
+    "faculty": "Business",
+    "year": 4,
+    "gpa": 2.8,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Excel"
+    ]
+  },
+  {
+    "student_id": 1017,
+    "name": "Nattaya",
+    "faculty": "IT",
+    "year": 1,
+    "gpa": 2.93,
+    "active": false,
+    "skills": [
+      "SQL",
+      "Python",
+      "HTML"
+    ]
+  },
+  {
+    "student_id": 1018,
+    "name": "Boon",
+    "faculty": "Science",
+    "year": 2,
+    "gpa": 3.06,
+    "active": true,
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "student_id": 1019,
+    "name": "Rada",
+    "faculty": "Engineering",
+    "year": 3,
+    "gpa": 3.19,
+    "active": true,
+    "skills": [
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  {
+    "student_id": 1020,
+    "name": "Sakda",
+    "faculty": "Business",
+    "year": 4,
+    "gpa": 3.32,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Excel"
+    ]
+  },
+  {
+    "student_id": 1021,
+    "name": "Jira",
+    "faculty": "IT",
+    "year": 1,
+    "gpa": 3.45,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Python",
+      "HTML"
+    ]
+  },
+  {
+    "student_id": 1022,
+    "name": "Piya",
+    "faculty": "Science",
+    "year": 2,
+    "gpa": 3.58,
+    "active": true,
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "student_id": 1023,
+    "name": "Metha",
+    "faculty": "Engineering",
+    "year": 3,
+    "gpa": 3.71,
+    "active": true,
+    "skills": [
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  {
+    "student_id": 1024,
+    "name": "Fah",
+    "faculty": "Business",
+    "year": 4,
+    "gpa": 3.84,
+    "active": false,
+    "skills": [
+      "SQL",
+      "Excel"
+    ]
+  },
+  {
+    "student_id": 1025,
+    "name": "Korn",
+    "faculty": "IT",
+    "year": 1,
+    "gpa": 2.42,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Python",
+      "HTML"
+    ]
+  },
+  {
+    "student_id": 1026,
+    "name": "Nam",
+    "faculty": "Science",
+    "year": 2,
+    "gpa": 2.55,
+    "active": true,
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  },
+  {
+    "student_id": 1027,
+    "name": "Pete",
+    "faculty": "Engineering",
+    "year": 3,
+    "gpa": 2.68,
+    "active": true,
+    "skills": [
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  {
+    "student_id": 1028,
+    "name": "Jintana",
+    "faculty": "Business",
+    "year": 4,
+    "gpa": 2.81,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Excel"
+    ]
+  },
+  {
+    "student_id": 1029,
+    "name": "Aom",
+    "faculty": "IT",
+    "year": 1,
+    "gpa": 2.94,
+    "active": true,
+    "skills": [
+      "SQL",
+      "Python",
+      "HTML"
+    ]
+  },
+  {
+    "student_id": 1030,
+    "name": "Beam",
+    "faculty": "Science",
+    "year": 2,
+    "gpa": 3.07,
+    "active": true,
+    "skills": [
+      "Python",
+      "SQL"
+    ]
+  }
+]
